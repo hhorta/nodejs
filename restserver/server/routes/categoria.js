@@ -61,6 +61,7 @@ app.get('/categoria/:id', verificaToken, (req, res) => {
 
 
 });
+
 //crear categoria 
 
 app.post('/categoria', verificaToken, (req, res) => {
