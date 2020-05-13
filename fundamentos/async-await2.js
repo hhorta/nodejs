@@ -1,6 +1,6 @@
 let empleados = [{
     id: 1,
-    nombre: 'Fernando'
+    nombre: 'Harold'
 }, {
     id: 2,
     nombre: 'Melissa'
